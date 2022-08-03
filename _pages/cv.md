@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, King Abdullah University of Science and Technology (KAUST), Thuwal Saudi Arabia, 2025 (expected)
+* M.Sc. in Computer Science, King Abdullah University of Science and Technology (KAUST), Thuwal Saudi Arabia, 2022
+* B.Eng. in Computer Science and Technology, Southern University of Science and Technology (SUSTech), Shenzhen China, 2021 
 
 Work experience
 ======
